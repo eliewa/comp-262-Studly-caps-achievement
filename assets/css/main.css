@@ -1,0 +1,19 @@
+* {
+  font-size: 20px;
+
+}
+
+h1 {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+form {
+  width: 50%;
+  margin: auto;
+  padding: .5rem;
+}
+
+.submit {
+  margin-top: .5rem;
+}
