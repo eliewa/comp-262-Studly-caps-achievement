@@ -2,7 +2,7 @@
 
 ## Author: Eli Ewa
 
-### GitHub repo: 
+### GitHub repo: https://eliewa.github.io/comp-262-Studly-caps-achievement/
 
 ### Code Journal:
 
